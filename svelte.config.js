@@ -25,7 +25,7 @@ const config = {
   },
 
   prerender: {
-  entries: ['/'],
+  entries: ['/demo-game-canvas'],
   handleHttpError: 'ignore',
   handleUnseenRoutes: 'ignore'
 }
