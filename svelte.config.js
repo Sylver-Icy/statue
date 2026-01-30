@@ -25,7 +25,7 @@ const config = {
   },
 
   prerender: {
-  entries: ['/statue'],
+  entries: ['/'],
   handleHttpError: 'ignore',
   handleUnseenRoutes: 'ignore'
 }
