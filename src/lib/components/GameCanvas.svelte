@@ -29,7 +29,7 @@
           <div
             class="cell"
             style="background:{cell === 1 ? '#4ade80' : '#1f2933'}"
-          />
+          ></div>
         {/each}
       </div>
     {/each}
